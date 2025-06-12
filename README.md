@@ -23,4 +23,4 @@ Le projet met en évidence les priorités à traiter pour réduire les délais d
 
 **Contact :**  
 Adrien PAPRZYCKI 
-[LinkedIn](https://www.linkedin.com/in/adrien-exemple)  
+[LinkedIn](www.linkedin.com/in/adrien-data)  
