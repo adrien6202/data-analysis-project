@@ -1,9 +1,26 @@
-# Analyse des tickets IT
+# Projet Data Analyst - Analyse des tickets IT
 
-Projet réalisé dans le cadre de ma formation Data Analyst.
+Ce projet a pour objectif d’analyser les tickets informatiques afin d’optimiser le temps de résolution et d’identifier les causes principales.
 
-- Analyse du temps de résolution des tickets  
-- Visualisation avec Power BI  
-- Nettoyage des données avec Python  
+## Contenu
 
-Ce projet m’a permis de mieux comprendre l’importance de la donnée dans le pilotage des activités IT.
+- Nettoyage des données avec un script Python (`scripts/nettoyage.py`)  
+- Extraction et requêtes SQL simples  
+- Visualisation via un tableau de bord Power BI (rapport PDF dans `reports/`)  
+- Fichiers de données au format CSV dans `data/`
+
+## Technologies utilisées
+
+- Python (pandas, matplotlib)  
+- SQL  
+- Power BI
+
+## Résultats
+
+Le projet met en évidence les priorités à traiter pour réduire les délais de résolution.
+
+---
+
+**Contact :**  
+Adrien PAPRZYCKI 
+[LinkedIn](https://www.linkedin.com/in/adrien-exemple)  
